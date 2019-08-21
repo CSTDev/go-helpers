@@ -1,4 +1,4 @@
-module github.com/CSTDev/go-helpers
+module github.com/cstdev/go-helpers
 
 go 1.12
 
