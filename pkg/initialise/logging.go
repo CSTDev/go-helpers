@@ -1,4 +1,4 @@
-package intialisation
+package initialise
 
 import (
 	log "github.com/sirupsen/logrus"
