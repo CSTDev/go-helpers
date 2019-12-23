@@ -5,7 +5,7 @@ branches:
     - master
 
 script:
-    - env GO111MODULE=on go build ./...
-    - env GO111MODULE=on go test ./...
+    - make test
+    - make build
     - bash scripts/auto-increment-version.sh
     
